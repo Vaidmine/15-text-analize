@@ -1,0 +1,5 @@
+calss TextAnalizer {
+
+}
+
+export { TextAnalizer}
