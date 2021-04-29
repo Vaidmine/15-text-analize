@@ -20,4 +20,5 @@ sentenceCount()
 sentenceCount() aprasymas ir gal net su pavyzdziai...
 
 ##Autorius
-Rimantas (Github, Linkedin)
+
+https://vaidmine.github.io/15-text-analize/
